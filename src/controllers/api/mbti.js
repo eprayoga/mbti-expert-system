@@ -1,4 +1,4 @@
-const { mbti_characters, mbti_rules, mbti_types } = require("../../../models");
+const { mbti_characters, mbti_rules, mbti_types } = require("../../models");
 
 module.exports = {
     index: async (req, res) => {
